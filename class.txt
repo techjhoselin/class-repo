@@ -1,13 +1,10 @@
-Crimson
-Orange
-Blue
-Cyan
-Yellow
-Charcoal
-Khaki
-Coral
-Silver
-Fuchsia
-Purple
-Brown
-Red
+Green was removed
+
+Blue was added
+
+Ivory was removed
+
+Charcoal was added
+
+Gray was removed
+
